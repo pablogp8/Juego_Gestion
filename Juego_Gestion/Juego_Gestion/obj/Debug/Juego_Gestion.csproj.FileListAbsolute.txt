@@ -10,3 +10,6 @@ c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\
 c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.Form2.resources
 C:\Users\User\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.Form3.resources
 C:\Users\User\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.Inicio.resources
+C:\Users\User\Source\Repos\Juego_Gestion\Juego_Gestion\Juego_Gestion\bin\Debug\Juego_Gestion.exe.config
+C:\Users\User\Source\Repos\Juego_Gestion\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.exe
+C:\Users\User\Source\Repos\Juego_Gestion\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.pdb
