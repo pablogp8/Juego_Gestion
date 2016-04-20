@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\bin\Debug\Juego_Gestion.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\bin\Debug\Juego_Gestion.exe
+c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\bin\Debug\Juego_Gestion.pdb
+c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.exe
+c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.pdb
+c:\users\user\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.Form2.resources
+C:\Users\User\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.Form3.resources
+C:\Users\User\documents\visual studio 2015\Projects\Juego_Gestion\Juego_Gestion\obj\Debug\Juego_Gestion.Inicio.resources
